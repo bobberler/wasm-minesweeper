@@ -7,6 +7,8 @@ wasm-minesweeper
 wasm-pack build
 ```
 
+![Screenshot](game.png)
+
 
 ## License
 
